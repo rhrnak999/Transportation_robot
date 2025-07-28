@@ -105,6 +105,3 @@ ROBOT_PROJECT/
   - 터틀봇 기능 한계로 도로 환경 적용에 제약
   - 실제 환경(제주도 등)에 적용 시 더 많은 데이터 필요
 
-## 📎 소스코드
-
-> 👉 [GitHub Repository Link](https://github.com/rhrnak999/ROBOT_PROJECT/tree/main/Transportation_robot)

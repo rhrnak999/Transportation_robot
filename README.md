@@ -74,20 +74,6 @@
 | 문승연   | 모델 학습 및 월드 구성                |
 | 함국성   | 전처리 및 자료 정리                   |
 
-## 📂 프로젝트 구조 예시
-
-```
-ROBOT_PROJECT/
-├── patrol_bot/
-│   ├── sub_move.py *
-│   └── last_car_tf_pub.py *
-├── tow_bot/
-│   └── final_gyenin.py *
-├── Image/
-├── camera_config/
-├── map_config/
-├── nav_config/
-```
 ### 주요 파일 설명
 
 - `tow_bot/final_gyenin.py` : 견인 로봇 메인 제어 스크립트
